@@ -32,7 +32,7 @@
         <dependency.hikaricp.version>3.4.5</dependency.hikaricp.version>
         <dependency.h2.version>1.4.200</dependency.h2.version>
         <dependency.mssql.version>9.1.0.jre15-preview</dependency.mssql.version>
-        <dependency.mariadb.version>2.6.2</dependency.mariadb.version>
+        <dependency.mariadb.version>2.7.3</dependency.mariadb.version>
         <dependency.slf4j.version>1.7.30</dependency.slf4j.version>
         <dependency.sentry.version>1.7.30</dependency.sentry.version>
         <dependency.bcyrpt.version>0.9.0</dependency.bcyrpt.version>
