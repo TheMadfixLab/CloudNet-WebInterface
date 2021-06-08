@@ -34,7 +34,7 @@
         <dependency.mssql.version>9.1.0.jre15-preview</dependency.mssql.version>
         <dependency.mariadb.version>2.6.2</dependency.mariadb.version>
         <dependency.slf4j.version>1.7.30</dependency.slf4j.version>
-        <dependency.sentry.version>1.7.30</dependency.sentry.version>
+        <dependency.sentry.version>5.0.1</dependency.sentry.version>
         <dependency.bcyrpt.version>0.9.0</dependency.bcyrpt.version>
         <dependency.javalin.version>3.10.1</dependency.javalin.version>
         <dependency.jackson.version>2.11.2</dependency.jackson.version>
